@@ -1,0 +1,38 @@
+.headergoogle{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+    font-size: 90px;
+}
+.button{
+    text-align: right;
+}
+.searchinput{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 40%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: 1px solid;
+    border-color: silver;
+    box-shadow: 2px 8px 12px -7px #000;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+
+}
+button{
+    padding: 10px;
+    border-radius: 8px;
+    border-color: blue;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+/* action="https://www.google.com/imghp?hl=en" */
